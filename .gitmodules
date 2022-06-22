@@ -1,0 +1,3 @@
+[submodule "react-subapplication"]
+	path = react-subapplication
+	url = https://github.com/freeliujian/react-subapplication.git
